@@ -1,4 +1,7 @@
 # UAS ROBOTIKA DAN SISTEM OTONOM
+
+---
+
 ## NOMOR 1:
 Sebuah robot bergerak dua roda (differential drive robot) harus bergerak dari Titik Start (S) menuju Titik Goal (G) pada lingkungan 2D yang memiliki beberapa rintangan statis. Lingkungan direpresentasikan dalam bentuk peta grid (occupancy grid), di mana sel tertentu tidak dapat dilewati oleh robot. 
 
@@ -28,6 +31,8 @@ Jelaskan secara rinci:
    - serta interpretasi mengapa jalur tersebut dianggap optimal atau layak untuk robot bergerak.
 
 Hasil dapat disajikan dalam bentuk kode Python dan visualisasi grafik (misalnya peta grid dengan jalur hasil perencanaan).
+
+----
 
 
 # DIBUAT OLEH:
