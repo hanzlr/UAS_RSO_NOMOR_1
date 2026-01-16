@@ -31,5 +31,6 @@ Hasil dapat disajikan dalam bentuk kode Python dan visualisasi grafik (misalnya 
 
 
 # DIBUAT OLEH:
+## KELOMPOK 1:
 - JAROT WIWOHO               (41422110036)
 - RAIHAN RAMANDHA SAPUTRA    (41422110039)
